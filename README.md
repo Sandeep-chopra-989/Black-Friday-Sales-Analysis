@@ -78,19 +78,7 @@ To perform an exploratory data analysis (EDA) to:
 
 ---
 
-## 📁 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/black-friday-sales-analysis.git
-   ```
-2. Navigate to the project directory:
-   cd black-friday-sales-analysis
-   
-3.Open the Jupyter Notebook:
-Black_Friday_Sales_Analysis.ipynb
-
-4. Run all cells to reproduce the analysis.
 
 ## 🙋‍♂️ Author
 Sandeep
